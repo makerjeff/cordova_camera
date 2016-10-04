@@ -5,6 +5,7 @@
 	cordova create "foldername" com.something."identifier" "appname"
 
 ##Dependencies
+- [JQuery Mobile](http://demos.jquerymobile.com/1.4.5/pages-multi-page/)
 
 ##References
 - [Creating your first Cordova App](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)

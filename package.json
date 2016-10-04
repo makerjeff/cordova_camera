@@ -1,0 +1,22 @@
+{
+  "name": "cordova_camera",
+  "version": "0.0.1",
+  "description": "Experimenting with cordova camera and other plugins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jquery-mobile":"latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makerjeff/cordova_camera.git"
+  },
+  "author": "Jefferson Wu <makerjeffwu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makerjeff/cordova_camera/issues"
+  },
+  "homepage": "https://github.com/makerjeff/cordova_camera#readme"
+}
