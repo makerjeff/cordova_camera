@@ -12,3 +12,6 @@
 - [Cordova-Plugin-Camera](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-camera/index.html)
 - [Cordova Camera Capture Example](https://gist.github.com/dhavaln/2238017)
 
+##Tutorials
+- [PhoneGap/Cordova Camera Plugin Tutorial (with JQuery Mobile interface)](https://www.youtube.com/watch?v=KlBfmHDZjmg)
+
